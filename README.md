@@ -57,9 +57,6 @@ This platform analyzes user inputs such as interests, skills, and preferences to
 - Firebase (As a Database Storage)
 ---
 
-## Project Demo
-  👉 https://youtu.be/bNJczNR6F5Y
-
 ##  Future Enhancements
 - AI-based career prediction  
 - Resume analysis integration  
